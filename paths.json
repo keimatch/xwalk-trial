@@ -3,6 +3,6 @@
     "/content/xwalktrial/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/xwalktrial/"
   ]
 }
