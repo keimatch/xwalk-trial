@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/xwalktest/:/"
+    "/content/xwalktrial/:/"
   ],
   "includes": [
     "/content/aem-boilerplate/"
