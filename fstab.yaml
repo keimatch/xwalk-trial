@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://p142661-e1463637/bin/franklin.delivery/keimatch/xwalk-trial/main"
+    url: "https://p142661-e1463637.adobeaemcloud.com/bin/franklin.delivery/keimatch/xwalk-trial/main"
     type: "markup"
     suffix: ".html"
