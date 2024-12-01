@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/xwalktrial/:/"
+    "/content/xwalk-trial/:/"
   ],
   "includes": [
-    "/content/xwalktrial/"
+    "/content/xwalk-trial/"
   ]
 }
